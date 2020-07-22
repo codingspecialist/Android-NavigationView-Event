@@ -1,0 +1,2 @@
+rootProject.name='NavigationIntentEx01'
+include ':app'
